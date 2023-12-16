@@ -4,6 +4,8 @@ This project converts text into a Pushdown Automaton (PDA). The assignment compr
 - Input Grammar Rules: The code accepts grammar input from users. This grammar should align with a specific format. Here is an example of a 2 rule grammer:
 
   `S -> aSb | aSbb | A`
+
+
   `A -> aA | λ`
 
   More grammer examples can be found in the examples.md file. 
